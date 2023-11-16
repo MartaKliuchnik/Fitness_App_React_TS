@@ -22,7 +22,7 @@ export default {
 				dmsans: ["DM Sans", "sans-serif"],
 				montserrat: ["Monserrat", "sans-serif"]
 			},
-			contect: {
+			content: {
 				evolvetext: "url('./assets/EvolveText.png')",
 				abstractwaves: "url('./assets/AbstractWaves.png')",
 				sparkles: "url('./assets/Sparkles.png')",
