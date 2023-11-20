@@ -146,7 +146,7 @@ const Benefits = ({setSelectedPage}: Props) => {
                         <div className="relative mt-16">
                             <div className="before:absolute before:-bottom-20 before:right-40 before:z-[-1] before:content-sparkles">
                                 <ActionButton setSelectedPage={setSelectedPage}>
-                                    Jion Now
+                                    Join Now
                                 </ActionButton>
                             </div>
 
