@@ -1,3 +1,20 @@
+Fitness application
+
+A website that offers users an intuitive, friendly interface and contains basic information about the fitness club and the classes conducted there. The website has implemented a form that allows collecting information from the user and then sending the data by e-mail.
+
+Used web-technologies:
+
+HTML, CSS (SASS)
+Vite
+TypeScript
+React (React Hook, React Anchor Link Smooth Scroll)
+Tailwind CSS
+Hero Icons
+Framer Motion
+Form Submit
+Cloudflare Pages (for deploying app)
+link: https://fitness-app-react-ts.pages.dev/
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
