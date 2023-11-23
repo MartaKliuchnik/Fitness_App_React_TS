@@ -1,18 +1,19 @@
-Fitness application
+![fitness](https://github.com/MartaKliuchnik/Fitness_App_React_TS/assets/101942611/f0b3a7f1-e2e3-4a26-adbb-ae849c0d0b71)
 
-A website that offers users an intuitive, friendly interface and contains basic information about the fitness club and the classes conducted there. The website has implemented a form that allows collecting information from the user and then sending the data by e-mail.
+**Fitness application**
+
+The website provides users with an intuitive, user-friendly interface and basic information about the fitness club and its classes. It includes a form for collecting user information and subsequently sending it via email.
 
 Used web-technologies:
+- HTML, CSS
+- TypeScript
+- React (React Hook, React Anchor Link Smooth Scroll)
+- Tailwind CSS
+- Hero Icons
+- Framer Motion
+- Form Submit
+- Cloudflare Pages (for deploying app)
 
-HTML, CSS (SASS)
-Vite
-TypeScript
-React (React Hook, React Anchor Link Smooth Scroll)
-Tailwind CSS
-Hero Icons
-Framer Motion
-Form Submit
-Cloudflare Pages (for deploying app)
 link: https://fitness-app-react-ts.pages.dev/
 
 # React + TypeScript + Vite
